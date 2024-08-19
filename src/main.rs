@@ -1,6 +1,3 @@
-#![feature(half_open_range_patterns)]
-#![feature(exclusive_range_pattern)]
-
 use rand::prelude::*;
 use std::collections::{HashMap, HashSet};
 
